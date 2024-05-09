@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <>
     <Head>
       <title>Conheça nossos produtos</title>
-      <meta name="description" content="Conheça todos os nossos produtos" />
+      <meta name="description" content="Conheça todos os nossos produtos:" />
       <link rel="icon" href="/favcon.ico" />
     </Head>
 
